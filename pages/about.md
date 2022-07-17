@@ -16,7 +16,7 @@ ill  share my Knowledge and my writeups.
 
 thanks to databus Mentoring and pushing me to to be better, just like in his site:
 
-made with![](assets/images/red-heart-2-32.png)[echothrust](https://www.echothrust.com) with [echoctf](https://echoctf.com/)
+made with ![](assets/images/red-heart-2-32.png)[echothrust] (https://www.echothrust.com) with [echoctf](https://echoctf.com/)
 
 today im a staff member, helping new users and testing new machines/vuln/CVE.
 so its my time to help the comunity.
