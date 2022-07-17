@@ -2,13 +2,27 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
+#feature-img: "assets/img/pexels/travel.jpeg"
+gallery_path: "assets/img/"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+my name is Zvi Fux.
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Im networking and firewall specialist last 10 years,  for the last two years im training in cyber Security and pentesting.
+my main study site is  [echoctf.red](https://echoctf.red/), the machines are based CVE,
+real application and vuln that end users are installing on their machines at
+home/Industry.
+ill  share my Knowledge and my writeups.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+thanks to databus Mentoring and pushing me to to be better, just like in his site:
+
+made with ![](/assets/images/red-heart-2-32.png) [echothrust](https://www.echothrust.com) with [echoctf](https://echoctf.com/)
+
+today im a staff member, helping new users and testing new machines/vuln/CVE.
+so its my time to help the comunity.
+
+
+![](/assets/images/background.png)
+
+

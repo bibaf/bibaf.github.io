@@ -1,8 +1,8 @@
 --- 
 layout: page
-title : Portfolio 
+title : Machines
 permalink: /portfolio/
-subtitle: "Projects I am working on" 
+subtitle: "Machines i solved" 
 feature-img: "assets/img/pexels/computer.jpeg"
 tags: [Page]
 ---
