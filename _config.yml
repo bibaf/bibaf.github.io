@@ -27,7 +27,7 @@ katex: true                                             # Enable if using math m
 mermaid: dark                                        # Enable mermaid-js for diagrams, use theme: base, forest, dark, default, neutral
 google_analytics:                                       # Tracking ID, e.g. "UA-000000-01"
 cookie_consent: false                                   # To respect the usage of cookies
-color_theme: auto                                       # auto, dark or light
+color_theme: dark                                       # auto, dark or light
 
 # Comments
 comments:
@@ -38,14 +38,14 @@ comments:
     issue-term:                                         # Issue term (e.g. "comment" consider issues with this word in the title as comments)
 
 # PAGINATION
-#paginate: 10
-#paginate_path: "/blog/page:num"
+paginate: 10
+paginate_path: "/blog/page:num"
 
 # PORTFOLIO
-#collections:
-#  portfolio:
-#    output: true
-#   permalink: /:collection/:name
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:name
 
 # BUILD SETTINGS
 sass:
