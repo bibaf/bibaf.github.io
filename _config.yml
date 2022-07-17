@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: "/"
 url: "https://bibaf.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
