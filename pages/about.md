@@ -2,9 +2,8 @@
 layout: page
 title: About
 permalink: /about/
-#feature-img: "assets/img/pexels/travel.jpeg"
 gallery_path: "assets/img/"
-tags: [Page]
+
 ---
 
 my name is Zvi Fux.
