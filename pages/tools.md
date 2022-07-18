@@ -37,4 +37,5 @@ Memcache Enumartion [Memcache](https://book.hacktricks.xyz/network-services-pent
 
 mPDF and PHP [mPDF](https://github.com/mpdf/mpdf/issues/356#issue-216032258)
 
+meta-git [meta-git-rce](https://hackerone.com/reports/728040)
 
