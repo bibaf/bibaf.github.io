@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tools
-subtitle: From the pexels folder
+subtitle: Tools i used to solve machines
 permalink: /Tools/
 #gallery_path: "assets/img/pexels"
 tags: [Page]
