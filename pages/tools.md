@@ -51,7 +51,7 @@ CyberChef [CyberChef](https://gchq.github.io/CyberChef/)
 
 crackstation [crackstation](https://crackstation.net/)
 
-identification-chiffrement [identification-chiffrement] (https://www.dcode.fr/identification-chiffrement)
+identification-chiffrement [identification-chiffrement](https://www.dcode.fr/identification-chiffrement)
 
 Crypto RSA [Crypto RSA](https://chowdera.com/2022/136/202205160703029213.html)
 
