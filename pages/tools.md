@@ -57,5 +57,5 @@ Crypto RSA [Crypto RSA](https://chowdera.com/2022/136/202205160703029213.html)
 
 Cipher Identifier and Analyzer [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
-Hacking Secret Ciphers with Python [Hacking Secret Ciphers with Python] (http://inventwithpython.com/hacking/)
+Hacking Secret Ciphers with Python [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
 
