@@ -45,3 +45,17 @@ mPDF and PHP [mPDF](https://github.com/mpdf/mpdf/issues/356#issue-216032258)
 
 meta-git [meta-git-rce](https://hackerone.com/reports/728040)
 
+# Encryption
+
+CyberChef [CyberChef](https://gchq.github.io/CyberChef/)
+
+crackstation [crackstation](https://crackstation.net/)
+
+identification-chiffrement [identification-chiffrement] (https://www.dcode.fr/identification-chiffrement)
+
+Crypto RSA [Crypto RSA](https://chowdera.com/2022/136/202205160703029213.html)
+
+Cipher Identifier and Analyzer [Cipher Identifier and Analyzer](https://www.boxentriq.com/code-breaking/cipher-identifier)
+
+Hacking Secret Ciphers with Python [Hacking Secret Ciphers with Python] (http://inventwithpython.com/hacking/)
+
