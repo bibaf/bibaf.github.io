@@ -66,4 +66,4 @@ Read PDF as TEXT **>pdftotext Financial_Report_for_ABC_Labs.pdf**
 aircrack-ng [crack wifi pass from pcap file](https://www.aircrack-ng.org/doku.php?id=aircrack-ng) 
 
 example:
-aircrack-ng  wpa-ing_out.pcap -w PATH TO WORDLIST
+*aircrack-ng  wpa-ing_out.pcap -w PATH TO WORDLIST*
