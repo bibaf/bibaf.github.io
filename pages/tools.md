@@ -59,4 +59,11 @@ Cipher Identifier and Analyzer [Cipher Identifier and Analyzer](https://www.boxe
 
 Hacking Secret Ciphers with Python [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
 
-Read PDF as TEXT [pdftotext Financial_Report_for_ABC_Labs.pdf]
+Read PDF as TEXT ** > pdftotext Financial_Report_for_ABC_Labs.pdf**
+
+# Wifi
+
+aircrack-ng [crack wifi pass from pcap file](https://www.aircrack-ng.org/doku.php?id=aircrack-ng) 
+
+example:
+aircrack-ng  wpa-ing_out.pcap -w /home/biba/tools/rockyou.tx
