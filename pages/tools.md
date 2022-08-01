@@ -59,7 +59,9 @@ Cipher Identifier and Analyzer [Cipher Identifier and Analyzer](https://www.boxe
 
 Hacking Secret Ciphers with Python [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
 
-Read PDF as TEXT **>pdftotext Financial_Report_for_ABC_Labs.pdf**
+Read PDF as TEXT **>  pdftotext Financial_Report_for_ABC_Labs.pdf**
+
+Steganography Tools [Steganography Tools](https://futureboy.us/stegano/)
 
 # Wifi
 
