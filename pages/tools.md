@@ -33,6 +33,7 @@ Magic byts [Magic byts](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
 debug group [Debug group](/assets/img/gdb1.png)
 
+playbooks [playbooks](https://sushant747.gitbooks.io/total-oscp-guide/content/spawning_shells.html)
 
 
 # Web Applictions
@@ -44,6 +45,7 @@ Memcache Enumartion [Memcache](https://book.hacktricks.xyz/network-services-pent
 mPDF and PHP [mPDF](https://github.com/mpdf/mpdf/issues/356#issue-216032258)
 
 meta-git [meta-git-rce](https://hackerone.com/reports/728040)
+
 
 # Encryption
 
