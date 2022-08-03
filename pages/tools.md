@@ -65,7 +65,7 @@ Read PDF as TEXT **>  pdftotext Financial_Report_for_ABC_Labs.pdf**
 
 Steganography Tools [Steganography Tools](https://futureboy.us/stegano/)
 
-LSB encoding[LSB encoding] **>zsteg FILE**
+LSB encoding  **>zsteg FILE**
 
 # Wifi
 
