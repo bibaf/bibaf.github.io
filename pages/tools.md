@@ -67,6 +67,7 @@ Steganography Tools [Steganography Tools](https://futureboy.us/stegano/)
 
 LSB encoding  **>zsteg FILE**
 
+Decrypt-ssl-tls-packets[Decrypt-ssl-tls-packets](https://minnmyatsoe.com/2016/01/26/using-tshark-to-decrypt-ssl-tls-packets/)
 # Wifi
 
 aircrack-ng [crack wifi pass from pcap file](https://www.aircrack-ng.org/doku.php?id=aircrack-ng) 
