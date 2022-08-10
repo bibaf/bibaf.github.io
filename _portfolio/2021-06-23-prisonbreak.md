@@ -223,7 +223,7 @@ User cell7 may run the following commands on prisonbreak:
 
 some reading about links and i saw that under menu i have option to os.shell 
 
-[!](assets/img/portfolio/cell8.png)
+![](assets/img/portfolio/cell8.png)
 
 
 cell8@prisonbreak:~$ 
