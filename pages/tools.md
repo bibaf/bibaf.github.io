@@ -35,6 +35,7 @@ debug group [Debug group](/assets/img/gdb1.png)
 
 playbooks [playbooks](https://sushant747.gitbooks.io/total-oscp-guide/content/spawning_shells.html)
 
+gtfobins[gtfobins](https://gtfobins.github.io/)
 
 # Web Applictions
 
