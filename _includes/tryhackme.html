@@ -1,0 +1,15 @@
+<!-- tryhackme Grid Section -->
+<div class="tryhackme-grid">
+    {% for item in site.tryhackme %}
+    <div class="tryhackme-cell">
+        <a class="tryhackme-link" data-keyboard="true" href="{{ item.url | relative_url }}">
+            <div class="caption" title="{{ item.title }}">
+                <div class="caption-content">
+                    <i class="fas fa-search-plus fa-3x"></i>
+                </div>
+            </div>
+            <img alt="" class="" src="{{ item.img | relative_url }}">
+        </a>
+    </div>
+    {% endfor %}
+</div>
